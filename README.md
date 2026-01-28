@@ -1,5 +1,3 @@
-تمام، ده **تنسيق README مضبوط** بعناوين واضحة وأحجام مختلفة (Markdown قياسي لـ GitHub)، تقدر **تنسخه زي ما هو** 👌:
-
 ---
 
 # 🛒 E-Commerce RESTful Web API
